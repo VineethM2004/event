@@ -11,7 +11,7 @@
 # Installation
 
 ```
-composer require league/event
+composer require league/event/vineeth/prasad/m
 ```
 
 # [Read the documentation](http://event.thephpleague.com)
